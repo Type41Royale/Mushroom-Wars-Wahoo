@@ -1,8 +1,13 @@
+
 state={
 	id=65
 	name="STATE_65"
 	provinces={
-		232 389 522 1164 1198 1684 2134 2135 2139 
+		1164 1198 1233 1684 1954 2134 2135 2139 2142 2148 
+	}
+	history = {
+	owner = BOW
+	add_core_of = BOW
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

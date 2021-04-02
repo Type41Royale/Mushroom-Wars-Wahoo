@@ -1,9 +1,14 @@
+
 state={
 	id=32
 	name="STATE_32"
 	provinces={
-		2479 
+		1080 1373 1481 1719 1760 2146 2152 
 	}
-	manpower=0
+		history = {
+	owner = BOW
+	add_core_of = BOW
+	}
+	manpower=390712
 	buildings_max_level_factor=1.000
 }

@@ -3,8 +3,28 @@ state={
 	id=74
 	name="STATE_74"
 	provinces={
-		879 1135 1363 1471 1500 1711 1769 1959 2072 2154 2161 2166 
+		879 1135 1363 1471 1711 1788 1906 1959 2161 2162 
 	}
-	manpower=0
+	history = {
+	owner = BOW
+	add_core_of = BOW
+	
+	victory_points = {
+			1959 75
+		}
+	victory_points = {
+			879 20
+		}
+	victory_points = {
+			2162 10
+		}
+	victory_points = {
+			1788 2
+		}
+	victory_points = {
+			1135 2
+		}
+	}
+	manpower=12981004
 	buildings_max_level_factor=1.000
 }

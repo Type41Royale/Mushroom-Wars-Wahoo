@@ -1,12 +1,16 @@
+
 state={
 	id=230
 	name="STATE_230"
-	provinces={
-		223 806 907 1041 1410 1412 1815 2349 2351 
+
+	history={
+		owner = JWL
+		add_core_of = JWL
+
 	}
-	history = {
-	owner = JWL
-	add_core_of = JWL
+
+	provinces={
+		223 806 907 1041 1410 1815 2349 2351 
 	}
 	manpower=89512
 	buildings_max_level_factor=1.000

@@ -2,12 +2,15 @@
 state={
 	id=262
 	name="STATE_262"
-	provinces={
-		71 100 196 237 290 351 430 537 573 595 709 929 1369 1597 1678 1682 1916 2395 2418 2425 
+
+	history={
+		owner = JWL
+		add_core_of = JWL
+
 	}
-	history = {
-	owner = JWL
-	add_core_of = JWL
+
+	provinces={
+		71 100 196 237 277 290 351 430 537 573 595 709 929 1369 1412 1597 1678 1682 1916 2333 2395 2418 2425 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
