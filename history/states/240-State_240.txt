@@ -1,0 +1,13 @@
+state={
+	id=240
+	name="STATE_240"
+	provinces={
+		96 443 1333 1622 1826 2093 
+	}
+	history = {
+	owner = JWL
+	add_core_of = JWL
+	}
+	manpower=78401
+	buildings_max_level_factor=1.000
+}

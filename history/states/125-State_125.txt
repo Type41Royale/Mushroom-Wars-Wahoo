@@ -1,0 +1,23 @@
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		671 752 1448 1554 1585 1824 1876 1968 1987 1994 2050 2226 2227 2231 2232 2236 
+	}
+		history = {
+	owner = DEL
+	add_core_of = DEL
+	
+	victory_points = {
+			1968 5
+		}
+	victory_points = {
+			1876 2
+		}
+	victory_points = {
+			2236 20
+		}
+}
+	manpower=2165906
+	buildings_max_level_factor=1.000
+}

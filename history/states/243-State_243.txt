@@ -1,0 +1,20 @@
+state={
+	id=243
+	name="STATE_243"
+	provinces={
+		72 77 177 190 865 904 1283 1310 1576 1963 2087 2352 2358 2366 
+	}
+	history = {
+	owner = WAR
+	add_core_of = WAR
+	
+	victory_points = {
+			72 1
+		}
+	victory_points = {
+			77 1
+		}
+}
+	manpower=201912
+	buildings_max_level_factor=1.000
+}

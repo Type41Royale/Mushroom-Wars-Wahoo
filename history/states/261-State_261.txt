@@ -1,0 +1,13 @@
+state={
+	id=261
+	name="STATE_261"
+	provinces={
+		911 976 1109 
+	}
+	history = {
+	owner = JWL
+	add_core_of = JWL
+	}
+	manpower=12012
+	buildings_max_level_factor=1.000
+}

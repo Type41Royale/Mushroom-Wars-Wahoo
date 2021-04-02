@@ -1,0 +1,14 @@
+
+state={
+	id=38
+	name="STATE_38"
+	provinces={
+		240 966 1237 
+	}
+	history = {
+	owner = DEL
+	add_core_of = DEL
+}
+	manpower=24512
+	buildings_max_level_factor=1.000
+}

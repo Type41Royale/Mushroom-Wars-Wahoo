@@ -1,0 +1,17 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		50 454 1413 1432 2204 
+	}
+	history = {
+	owner = DEL
+	add_core_of = DEL
+
+	victory_points = {
+			1413 5
+		}
+	}
+	manpower=164512
+	buildings_max_level_factor=1.000
+}

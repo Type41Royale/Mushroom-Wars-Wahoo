@@ -1,0 +1,17 @@
+state={
+	id=54
+	name="STATE_54"
+	provinces={
+		636 
+	}
+	history = {
+	owner = WAR
+	add_core_of = WAR
+	
+	victory_points = {
+			636 15
+		}
+}
+	manpower=4001419
+	buildings_max_level_factor=1.000
+}

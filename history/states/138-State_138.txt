@@ -1,0 +1,9 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		408 450 927 991 1077 1098 1172 1483 1514 1608 1949 2092 2257 2259 2260 2262 2265 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

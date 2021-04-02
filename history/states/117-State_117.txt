@@ -1,0 +1,24 @@
+
+state={
+	id=117
+	name="STATE_117"
+	provinces={
+		217 440 788 983 1250 1555 1595 1844 1920 2062 2241 2245 2246 2247 2248 2249 
+	}
+		history = {
+	owner = DEL
+	add_core_of = DEL
+		
+	victory_points = {
+			2245 10
+		}
+	victory_points = {
+			1920 25
+		}
+	victory_points = {
+			1595 2
+		}
+	}
+	manpower=816713
+	buildings_max_level_factor=1.000
+}

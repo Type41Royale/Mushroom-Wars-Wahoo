@@ -1,0 +1,17 @@
+state={
+	id=171
+	name="STATE_171"
+	provinces={
+		741 1266 1381 1574 
+	}
+	history = {
+	owner = JWL
+	add_core_of = JWL
+
+	victory_points = {
+			1381 1
+		}
+	}
+	manpower=98601
+	buildings_max_level_factor=1.000
+}

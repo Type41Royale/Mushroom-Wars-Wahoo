@@ -1,0 +1,16 @@
+DEL = {
+	color = rgb { 239 175 0 }
+	color_ui = rgb { 239 175 0 }
+}
+WAR = {
+	color = rgb { 239 175 0 }
+	color_ui = rgb { 239 175 0 }
+}
+JWL = {
+	color = rgb { 141 6 148 }
+	color_ui = rgb { 141 6 148 }
+}
+BOW = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}

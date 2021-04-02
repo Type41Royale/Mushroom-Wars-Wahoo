@@ -1,0 +1,18 @@
+
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		52 116 1179 1558 1644 1805 2347 2355 
+	}
+		history = {
+	owner = WAR
+	add_core_of = WAR
+	
+	victory_points = {
+			52 5
+		}
+}
+	manpower=22104
+	buildings_max_level_factor=1.000
+}

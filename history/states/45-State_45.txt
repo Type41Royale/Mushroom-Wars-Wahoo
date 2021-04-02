@@ -1,0 +1,17 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		540 868 1138 1277 1744 1979 2018 
+	}
+		history = {
+	owner = DEL
+	add_core_of = DEL
+	
+	victory_points = {
+			2018 12
+		}
+}
+	manpower=21712
+	buildings_max_level_factor=1.000
+}

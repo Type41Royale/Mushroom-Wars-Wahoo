@@ -1,0 +1,17 @@
+state={
+	id=256
+	name="STATE_256"
+	provinces={
+		387 586 658 1275 1807 
+	}
+		history = {
+	owner = JWL
+	add_core_of = JWL
+
+	victory_points = {
+			1807 15
+		}
+	}
+	manpower=312012
+	buildings_max_level_factor=1.000
+}

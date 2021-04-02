@@ -1,0 +1,17 @@
+state={
+	id=126
+	name="STATE_126"
+	provinces={
+		2238 
+	}
+		history = {
+	owner = DEL
+	add_core_of = DEL
+	
+	victory_points = {
+			2238 50
+		}
+}
+	manpower=888712
+	buildings_max_level_factor=1.000
+}

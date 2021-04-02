@@ -1,0 +1,13 @@
+state={
+	id=198
+	name="STATE_198"
+	provinces={
+		221 355 1134 1287 2306 2318 
+	}
+	history = {
+	owner = JWL
+	add_core_of = JWL
+	}
+	manpower=122012
+	buildings_max_level_factor=1.000
+}

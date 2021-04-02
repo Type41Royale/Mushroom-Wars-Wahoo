@@ -1,0 +1,30 @@
+﻿capital = 74
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = fascist
+	last_election = "1936.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 6
+	frettish = 94
+}
+
+create_country_leader = {
+	name = "Bowser I"
+	desc = ""
+	picture = "Bowser.dds"
+	expire = "1965.1.1"
+	ideology = bowserist
+	traits = {
+		#
+	}
+}
