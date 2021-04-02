@@ -59,6 +59,26 @@
  JWL_frettish_ADJ:0 "Jeweler"
  JWL_anarchy_ADJ:0 "Jeweler"
 
+ ##Bowser##
+ BOW_fascism:0 "Koopa Kingdom"
+ BOW_fascism_DEF:0 "The Koopa Kingdom"
+ BOW_democratic:0 "Koopaland"
+ BOW_democratic_DEF:0 "Koopaland"
+ BOW_neutrality:1 "Koopa Kingdom"
+ BOW_neutrality_DEF:1 "The Koopa Kingdom"
+ BOW_communism:0 "Koopaland"
+ BOW_communism_DEF:0 "Koopaland"
+ BOW_frettish:0 "Koopaland"
+ BOW_frettish_DEF:0 "Koopaland"
+ BOW_anarchy:0 "Koopaland"
+ BOW_anarchy_DEF:0 "Koopaland"
+ BOW_fascism_ADJ:0 "Koopa"
+ BOW_democratic_ADJ:0 "Koopa"
+ BOW_neutrality_ADJ:0 "Koopa"
+ BOW_communism_ADJ:0 "Koopa"
+ BOW_frettish_ADJ:0 "Koopa"
+ BOW_anarchy_ADJ:0 "Koopa"
+
 
 ##TEMPLATE##
  TST_fascism:0 ""
