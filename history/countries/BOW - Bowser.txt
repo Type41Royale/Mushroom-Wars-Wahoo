@@ -14,8 +14,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 6
-	frettish = 94
+	fascist = 100
 }
 
 create_country_leader = {
