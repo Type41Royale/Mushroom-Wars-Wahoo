@@ -14,3 +14,7 @@ BOW = {
 	color = rgb { 55 59 56 }
 	color_ui = rgb { 55 59 56 }
 }
+MUS = {
+	color = rgb { 245 66 218 }
+	color_ui = rgb { 245 66 218 }
+}

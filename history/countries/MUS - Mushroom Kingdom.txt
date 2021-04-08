@@ -1,4 +1,4 @@
-﻿capital = 74
+﻿capital = 20
 
 # Starting tech
 set_technology = {
@@ -8,21 +8,23 @@ set_technology = {
 set_convoys = 10
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 24
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 100
+	democratic = 54
+	fascism = 15
+	neutrality = 31
 }
 
 create_country_leader = {
-	name = "Bowser I"
+	name = "Peach I"
 	desc = ""
-	picture = "Bowser.dds"
+	picture = "Peach.dds"
 	expire = "1965.1.1"
-	ideology = bowserist
+	ideology = mushroom-kingdom
 	traits = {
 		#
 	}
