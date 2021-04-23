@@ -3,8 +3,17 @@ state={
 	id=3
 	name="STATE_3"
 	provinces={
-		1840 
+		1818 
 	}
-	manpower=0
+		history = {
+	owner = DSY
+	add_core_of = DSY
+	add_core_of = MUS
+	
+	victory_points = {
+			1818 10
+		}
+		}
+	manpower=415698
 	buildings_max_level_factor=1.000
 }

@@ -18,3 +18,15 @@ MUS = {
 	color = rgb { 245 66 218 }
 	color_ui = rgb { 245 66 218 }
 }
+BBN = {
+	color = rgb { 97 237 100 }
+	color_ui = rgb { 97 237 100 }
+}
+DSY = {
+	color = rgb { 235 162 94 }
+	color_ui = rgb { 235 162 94 }
+}
+CAI = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}

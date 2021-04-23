@@ -5,6 +5,14 @@ state={
 	provinces={
 		41 139 371 696 784 
 	}
-	manpower=0
+	history = {
+	owner = BBN
+	add_core_of = BBN
+	
+	victory_points = {
+			41 60
+		}
+	}
+	manpower=2134509
 	buildings_max_level_factor=1.000
 }

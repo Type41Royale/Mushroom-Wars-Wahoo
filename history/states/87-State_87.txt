@@ -4,6 +4,10 @@ state={
 	provinces={
 		241 388 503 512 665 716 872 905 1029 1173 1299 1312 1398 2060 2099 2197 2201 
 	}
-	manpower=0
+	history = {
+	owner = MUS
+	add_core_of = MUS
+	}
+	manpower=816403
 	buildings_max_level_factor=1.000
 }

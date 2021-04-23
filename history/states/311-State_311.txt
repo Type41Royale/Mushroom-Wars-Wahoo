@@ -4,6 +4,10 @@ state={
 	provinces={
 		127 576 632 826 1690 1802 2457 
 	}
-	manpower=0
+	history = {
+	owner = BBN
+	add_core_of = BBN
+	}
+	manpower=122690
 	buildings_max_level_factor=1.000
 }

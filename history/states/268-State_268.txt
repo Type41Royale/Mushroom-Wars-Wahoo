@@ -5,6 +5,9 @@ state={
 	provinces={
 		85 108 110 120 138 186 293 346 407 432 455 601 692 772 898 970 1042 1232 1449 1513 1544 1546 1651 1725 1856 1873 1952 2420 
 	}
+	history = {
+	owner = BBN
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 }

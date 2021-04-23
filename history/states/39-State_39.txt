@@ -5,8 +5,9 @@ state={
 		2483 
 	}
 		history = {
-	owner = DEL
+	owner = MUS
 	add_core_of = DEL
+	
 	
 	victory_points = {
 			2483 1

@@ -1,0 +1,31 @@
+﻿capital = 58
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+set_popularities = {
+	communism = 97
+	frettish = 1
+	democratic = 2
+}
+
+create_country_leader = {
+	name = "Queen Bean"
+	desc = ""
+	picture = "Queenbean.dds"
+	expire = "1965.1.1"
+	ideology = pro_beanbean
+	traits = {
+		#
+	}
+}

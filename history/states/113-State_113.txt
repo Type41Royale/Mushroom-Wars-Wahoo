@@ -2,9 +2,16 @@
 state={
 	id=113
 	name="STATE_113"
-	provinces={
-		6 182 235 548 1062 1092 1094 1818 1931 2009 2034 2103 
+
+	history={
+		owner = MUS
+		add_core_of = MUS
+
 	}
-	manpower=0
+
+	provinces={
+		6 182 235 548 1062 1092 1094 1931 2009 2103 
+	}
+	manpower=213078
 	buildings_max_level_factor=1.000
 }
