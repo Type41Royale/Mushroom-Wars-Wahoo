@@ -5,6 +5,14 @@ state={
 	provinces={
 		1210 1218 2052 2327 
 	}
-	manpower=0
+	history = {
+	owner = BSK
+	add_core_of = BSK
+	
+	victory_points = {
+			2327 10
+		}
+	}
+	manpower=999812
 	buildings_max_level_factor=1.000
 }

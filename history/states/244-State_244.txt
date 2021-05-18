@@ -4,6 +4,10 @@ state={
 	provinces={
 		55 525 606 1197 
 	}
-	manpower=0
+	history = {
+	owner = CAI
+	add_core_of = CAI
+	}
+	manpower=715691
 	buildings_max_level_factor=1.000
 }
