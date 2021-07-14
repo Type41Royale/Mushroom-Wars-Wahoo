@@ -4,6 +4,23 @@ state={
 	provinces={
 		469 550 1136 1689 2039 2431 2434 2440 
 	}
-	manpower=0
+	history = {
+	owner = RIE
+	add_core_of = RIE
+	
+	victory_points = {
+			2534 8
+		}
+	victory_points = {
+			550 1
+		}
+	victory_points = {
+			1136 1
+		}
+	victory_points = {
+			2440 1
+		}
+	}
+	manpower=90127
 	buildings_max_level_factor=1.000
 }

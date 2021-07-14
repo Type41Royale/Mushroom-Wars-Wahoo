@@ -1,0 +1,29 @@
+﻿capital = 26
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = anarchy
+	last_election = "1936.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+set_popularities = {
+	anarchy = 100
+}
+
+create_country_leader = {
+	name = "Naval Piranha"
+	desc = ""
+	picture = "Piranha.dds"
+	expire = "1965.1.1"
+	ideology = monster_rule
+	traits = {
+		#
+	}
+}

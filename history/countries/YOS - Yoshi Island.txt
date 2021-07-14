@@ -1,0 +1,30 @@
+﻿capital = 35
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 96
+	neutrality = 4
+}
+
+create_country_leader = {
+	name = "Yoshi Assembly"
+	desc = ""
+	picture = "YA.dds"
+	expire = "1965.1.1"
+	ideology = content_loyalism
+	traits = {
+		#
+	}
+}

@@ -5,6 +5,17 @@ state={
 	provinces={
 		82 243 499 611 756 829 1113 1166 1752 1763 1839 2017 2180 2478 2479 
 	}
-	manpower=0
+	history = {
+	owner = DNO
+	add_core_of = DNO
+	
+	victory_points = {
+			756 2
+		}
+	victory_points = {
+			1113 1
+		}
+	}
+	manpower=349008
 	buildings_max_level_factor=1.000
 }

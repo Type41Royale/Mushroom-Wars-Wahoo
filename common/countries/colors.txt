@@ -34,3 +34,23 @@ BSK = {
 	color = rgb { 29 22 240 }
 	color_ui = rgb { 29 22 240 }
 }
+FOS = {
+	color = rgb { 222 212 109 }
+	color_ui = rgb { 222 212 109 }
+}
+YOS = {
+	color = rgb { 97 237 100 }
+	color_ui = rgb { 97 237 100 }
+}
+DNO = {
+	color = rgb { 145 12 3 }
+	color_ui = rgb { 145 12 3 }
+}
+RIE = {
+	color = rgb { 235 195 131 }
+	color_ui = rgb { 235 195 131 }
+}
+MUD = {
+	color = rgb { 60 29 219 }
+	color_ui = rgb { 60 29 219 }
+}

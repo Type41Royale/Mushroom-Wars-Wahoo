@@ -4,6 +4,14 @@ state={
 	provinces={
 		246 693 722 1153 2169 2190 
 	}
-	manpower=0
+	history = {
+	owner = DNO
+	add_core_of = DNO
+	
+	victory_points = {
+			246 1
+		}
+		}
+	manpower=213459
 	buildings_max_level_factor=1.000
 }

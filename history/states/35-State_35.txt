@@ -5,6 +5,20 @@ state={
 	provinces={
 		1252 1392 1745 1933 1982 2200 2482 
 	}
-	manpower=0
+	history = {
+	owner = YOS
+	add_core_of = YOS
+	
+	victory_points = {
+			2200 10
+		}
+	victory_points = {
+			1745 1
+		}
+	victory_points = {
+			1982 1
+		}
+	}
+	manpower=301962
 	buildings_max_level_factor=1.000
 }

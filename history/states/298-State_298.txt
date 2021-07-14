@@ -5,6 +5,11 @@ state={
 	provinces={
 		4 199 228 315 509 591 642 661 775 1026 1054 1107 1380 1460 1545 1639 1823 2037 2437 2442 2444 
 	}
-	manpower=0
+		history = {
+	owner = MUD
+	add_core_of = MUD
+	
+	}
+	manpower=198554
 	buildings_max_level_factor=1.000
 }
