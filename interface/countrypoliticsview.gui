@@ -3,10 +3,10 @@ guiTypes = {
 	containerWindowType = {
 		name = "countrypoliticsview"
 		position = { x=-606 y=78}	
-		show_position = { x=-6 y =78 }
+		show_position = { x=650 y =78 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
-		animation_time = 300	
+		animation_time = 1000	
 		size = { width=550 height=100%% }
 		
 		#hide_sound = menu_close_window
